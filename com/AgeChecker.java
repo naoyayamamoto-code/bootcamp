@@ -45,3 +45,10 @@ public class Example {
 }
 
 
+
+function sum(a, b) {
+    return a + b;
+}
+
+// メソッドを呼び出してみる
+console.log(sum(3, 5)); // 出力: 8
