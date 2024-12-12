@@ -52,3 +52,16 @@ function sum(a, b) {
 
 // メソッドを呼び出してみる
 console.log(sum(3, 5)); // 出力: 8
+
+
+package example;
+
+public class Main {
+    public static void main(String[] args) {
+        // Personクラスのインスタンスを作成
+        Person person = new Person("山本太郎", 25);
+
+        // メソッドを呼び出す
+        person.introduce();
+    }
+}
