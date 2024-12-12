@@ -13,3 +13,12 @@ public class AgeChecker {
         }
     }
 }
+
+//forで動かす処理
+for (int i = 1; i <= 10; i++) {
+    System.out.println("iの値: " + i);
+}
+
+
+
+
